@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+httpx
+pydantic
+scikit-learn
+pandas
+numpy
+python-dotenv
+statsmodels
+sentence-transformers
+transformers==4.34.0
+openai
+joblib
