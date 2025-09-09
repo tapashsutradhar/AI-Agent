@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+*.pot
+*.pyc
+*.pkl
+venv/
+.env
+*.egg-info/
+
+# FastAPI/Uvicorn
+*.pid
+
+# Jupyter
+.ipynb_checkpoints
+
+# Node / React
+node_modules/
+dist/
+build/
+.cache/
+*.tsbuildinfo
+
+# Vite
+.vite/
+*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
