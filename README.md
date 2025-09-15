@@ -121,9 +121,3 @@ docker run -p 8000:8000 ai-agent-backend
 * Expand KB for local Q\&A
 * Improve forecasting models (Prophet, ARIMA, LSTMs)
 * Deploy on cloud (Render/Heroku/Vercel)
-
----
-
-## 📜 License
-
-MIT
